@@ -24,7 +24,7 @@ SteemConnect is an identity layer on top of the Steem-blockchain that makes acco
 
 **What is Steemit?
 
-Steemit.com is a blockchain-based social media platform where anyone can earn rewards by blogging, posting videos, commenting and interacting with authors. The steem blockchain not only holds earned cryptocurrency tokens called STEEM and STEEM DOLLARS, but also content (article, video, music, pictures etc) created by its users, a system to vote on that content, receive rewards in addition to other features you would find on popular social networking site.
+Steemit.com is a blockchain-based social media platform where anyone can earn rewards by blogging, posting videos, commenting and interacting with authors. The steem blockchain not only holds earned cryptocurrency tokens called STEEM and STEEM DOLLARS, but also content (articles, videos, music, pictures etc) created by its users, a system to vote on that content, receive rewards in addition to other features you would find on popular social networking site.
 
 
 
